@@ -57,8 +57,6 @@ Docker
 CI/CD Fundamentals
 Linux
 
-shell
-Copy code
 
 ### AI / ML
 Machine Learning
@@ -99,18 +97,6 @@ This project reflects my interest in **applying AI to real-world healthcare chal
 - Documentation is not optional  
 
 I write code assuming **someone else will read and maintain it**.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chahatkashwani&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chahatkashwani&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
