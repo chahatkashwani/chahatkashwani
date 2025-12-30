@@ -32,8 +32,7 @@ My focus is on **projects that solve actual problems**, not just academic exerci
 ### Languages
 C | C++ | Java | Python | JavaScript | R
 
-shell
-Copy code
+
 
 ### Core Computer Science
 Data Structures & Algorithms
@@ -42,15 +41,13 @@ Computer Networks
 DBMS
 Cryptography & Network Security
 
-shell
-Copy code
+
 
 ### Web & Backend
 HTML | CSS | SQL
 REST APIs | Authentication
 
-shell
-Copy code
+
 
 ### Cloud / DevOps
 Docker
@@ -63,8 +60,7 @@ Machine Learning
 Computer Vision
 Image Processing
 
-yaml
-Copy code
+
 
 ---
 
